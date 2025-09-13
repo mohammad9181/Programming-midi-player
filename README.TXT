@@ -7,4 +7,4 @@
 
 51 and 52: why is are there NumberDisplay questions in part 3?
 
-53. 
+58. What I'm seeing is the trajectory or the order in which the code executes each line. It goes through many phases, from getting created to executed.
