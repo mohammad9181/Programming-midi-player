@@ -28,6 +28,7 @@ public class TuneCreator
     public void CreateAndPlay()
     {
         SimpleTune tune  = new SimpleTune();
+        //added notes to SimpleTune
         
         tune.addNote("A", 10);
         tune.addNote("B", 10);
